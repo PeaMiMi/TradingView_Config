@@ -1,4 +1,6 @@
-![Uploading image.png…]()
+<img width="1428" alt="image" src="https://github.com/PeaMiMi/TradingView_Config/assets/140598134/034b0a7a-9a0f-42cd-8d3d-f7c430ae0323">
+
+
 
 One-on-one help to configure TradingView, so that it can meet the online requirements and provide personalized needs
 
@@ -36,7 +38,7 @@ If you want to configure other personalized requirements, please contact me: htt
 
 ################################
 
-![Uploading image.png…]()
+<img width="1423" alt="image" src="https://github.com/PeaMiMi/TradingView_Config/assets/140598134/7c462458-ca55-4865-872f-6d9a5d519d5e">
 
 
 # Online Payment
