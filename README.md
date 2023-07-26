@@ -34,7 +34,8 @@ If you want to configure other personalized requirements, please contact me: htt
 
 ################################
 
-![Uploading image.png…]()
+<img width="1382" alt="image" src="https://github.com/PeaMiMi/TradingView_Config/assets/140598134/97136688-9a25-42ef-9863-76fcd82776f9">
+
 
 
 # Online Payment
