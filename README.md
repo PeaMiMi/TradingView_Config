@@ -1,6 +1,7 @@
 <img width="1428" alt="image" src="https://github.com/PeaMiMi/TradingView_Config/assets/140598134/034b0a7a-9a0f-42cd-8d3d-f7c430ae0323">
 
 
+TradingView tradingView tradingvieiw line k line
 
 One-on-one help to configure TradingView, so that it can meet the online requirements and provide personalized needs
 
