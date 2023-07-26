@@ -16,8 +16,6 @@ Please contact me: https://t.me/peaMiMi
 If you want to configure other personalized requirements, please contact me: https://t.me/peaMiMi
 
 
-################################
-
 
 中文：
 一对一帮助配置TradingView，使能够达到上线要求，帮助配置的功能有：实时更新K线图，多主题，币种切换，时间切换，MA配置，多语言！（需要费用: 10USDT）;
@@ -25,8 +23,6 @@ If you want to configure other personalized requirements, please contact me: htt
 
 如果还想配置其他个性化需求请联系我：https://t.me/peaMiMi
 
-
-################################
 
 
 繁體：
@@ -40,7 +36,6 @@ If you want to configure other personalized requirements, please contact me: htt
 
 
 # Online Payment
-################################
 
 English：
 You can also send directly to (TRON: TP4HgW8KPJajr83G4a2ntvuoLhc7wFavST, ETH: 0x5d0Bc174645C420eFC4759208D15C675519281Ac, BSC: 0x5d0Bc174645C420eFC4759208D15C675 519281Ac) 10USDT into one of the chains!
@@ -48,8 +43,6 @@ You can also send directly to (TRON: TP4HgW8KPJajr83G4a2ntvuoLhc7wFavST, ETH: 0x
 Then go to Issues and leave a message about the function you want to achieve (realized functions include: real-time update K-line chart, multi-theme, currency switching, time switching, MA configuration, multi-language) and your email address, I will reply within 24 hours Send to the configuration you need!
 
 (You can also contact us directly: https://t.me/peaMiMi)
-
-################################
 
 
 中文：
@@ -59,8 +52,6 @@ Then go to Issues and leave a message about the function you want to achieve (re
 
 （您也可以直接联系我们：https://t.me/peaMiMi）
 
-
-################################
 
 
 繁體：
