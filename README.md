@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 One-on-one help to configure TradingView, so that it can meet the online requirements and provide personalized needs
 
 一对一帮助配置TradingView，使能够达到上线要求以及提供个性化需求
@@ -34,8 +36,7 @@ If you want to configure other personalized requirements, please contact me: htt
 
 ################################
 
-<img width="1382" alt="image" src="https://github.com/PeaMiMi/TradingView_Config/assets/140598134/97136688-9a25-42ef-9863-76fcd82776f9">
-
+![Uploading image.png…]()
 
 
 # Online Payment
